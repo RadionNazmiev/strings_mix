@@ -1,0 +1,9 @@
+[package]
+name = "strings_mix"
+version = "0.1.0"
+authors = ["radionnazmiev <radionnazmiev@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
